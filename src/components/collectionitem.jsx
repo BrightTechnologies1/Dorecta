@@ -49,6 +49,17 @@ function CollectionItem() {
                         </div>
                     </div>
                 </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
+                </div>
             </div>
             <div className='item'>
                 <div className='item-content'>
@@ -63,6 +74,17 @@ function CollectionItem() {
                         </div>
                     </div>
                 </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
+                </div>
             </div>
             <div className='item'>
                 <div className='item-content'>
@@ -76,6 +98,17 @@ function CollectionItem() {
                             <img src={avatar} alt='' ></img>
                         </div>
                     </div>
+                </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
                 </div>
             </div>
             <div className='item'>
@@ -91,6 +124,17 @@ function CollectionItem() {
                         </div>
                     </div>
                 </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
+                </div>
             </div>
             <div className='item'>
                 <div className='item-content'>
@@ -104,6 +148,17 @@ function CollectionItem() {
                             <img src={avatar} alt='' ></img>
                         </div>
                     </div>
+                </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
                 </div>
             </div>
             <div className='item'>
@@ -119,6 +174,17 @@ function CollectionItem() {
                         </div>
                     </div>
                 </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
+                </div>
             </div>
             <div className='item'>
                 <div className='item-content'>
@@ -132,6 +198,17 @@ function CollectionItem() {
                             <img src={avatar} alt='' ></img>
                         </div>
                     </div>
+                </div>
+                <div className='item-black'>
+                    <h1>Created by</h1>
+                    <div className='black-img'>
+                        <img src={avatar} alt='' width={30}/>
+                        <img src={item3} alt='' width={30}/>
+                        <img src={item4} alt='' width={30}/>
+                        <img src={item5} alt='' width={30}/>
+                        <img src={item1} alt='' width={30}/>
+                    </div>
+                    <h2>5k</h2>     
                 </div>
             </div>
         </div>

@@ -1,6 +1,7 @@
 .nav {
     background: #fff;
     height: 80px;
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -19,9 +20,33 @@
     align-items: center;
     text-decoration: none;
     padding: 0 1.2rem;
-    height: 100%;
     cursor: pointer;
 }
+
+.navlink a::after {
+    content: '';
+    position: relative;
+    bottom: 0;
+    top: 0;
+    right: 50%;
+    width: 0;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #006677;
+    transition: 0.4s ease-out;
+}
+
+.navlink a:hover::after {
+    top: 20px;
+    width: 10px;
+}
+
+.navlink a:active::after {
+    top: 20px;
+    width: 10px;
+}
+
+
 
 .navlink a:hover {
     color: #006677;

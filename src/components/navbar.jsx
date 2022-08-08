@@ -14,7 +14,7 @@ function Navbar() {
                 {/* <FaBars /> */}
             </div>
             <div className='navmenu'>
-                <div className='navlink active' to='/about' activeStyle>
+                <div className='navlink' to='/' active>
                     <a href=''>Home</a>
                 </div>
                 <div className='navlink' to='/services' activeStyle>

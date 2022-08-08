@@ -63,7 +63,7 @@
     border-radius: 0px 0px 20px 20px;
 }
 
-.item-black h1 {
+.item-black h1, h2 {
     font-size: 10px;
 }
 
