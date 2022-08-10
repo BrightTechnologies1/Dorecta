@@ -31,19 +31,19 @@
     right: 50%;
     width: 0;
     height: 10px;
-    border-radius: 50%;
+    border-radius: 50px;
     background-color: #006677;
     transition: 0.4s ease-out;
 }
 
 .navlink a:hover::after {
     top: 20px;
-    width: 10px;
+    width: 20px;
 }
 
 .navlink a:active::after {
     top: 20px;
-    width: 10px;
+    width: 20px;
 }
 
 
